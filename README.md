@@ -1,2 +1,2 @@
 # 100DaysOfPython
-## To comment the code for windows hit ctrl + /
+## To comment all the code for windows hit ctrl + /
